@@ -1,0 +1,14 @@
+C:\Users\Andrew\code\Chapter3_AllProject\BasicConsoleIO\bin\Debug\net6.0\BasicConsoleIO.exe
+C:\Users\Andrew\code\Chapter3_AllProject\BasicConsoleIO\bin\Debug\net6.0\BasicConsoleIO.deps.json
+C:\Users\Andrew\code\Chapter3_AllProject\BasicConsoleIO\bin\Debug\net6.0\BasicConsoleIO.runtimeconfig.json
+C:\Users\Andrew\code\Chapter3_AllProject\BasicConsoleIO\bin\Debug\net6.0\BasicConsoleIO.dll
+C:\Users\Andrew\code\Chapter3_AllProject\BasicConsoleIO\bin\Debug\net6.0\BasicConsoleIO.pdb
+C:\Users\Andrew\code\Chapter3_AllProject\BasicConsoleIO\obj\Debug\net6.0\BasicConsoleIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrew\code\Chapter3_AllProject\BasicConsoleIO\obj\Debug\net6.0\BasicConsoleIO.AssemblyInfoInputs.cache
+C:\Users\Andrew\code\Chapter3_AllProject\BasicConsoleIO\obj\Debug\net6.0\BasicConsoleIO.AssemblyInfo.cs
+C:\Users\Andrew\code\Chapter3_AllProject\BasicConsoleIO\obj\Debug\net6.0\BasicConsoleIO.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\code\Chapter3_AllProject\BasicConsoleIO\obj\Debug\net6.0\BasicConsoleIO.dll
+C:\Users\Andrew\code\Chapter3_AllProject\BasicConsoleIO\obj\Debug\net6.0\refint\BasicConsoleIO.dll
+C:\Users\Andrew\code\Chapter3_AllProject\BasicConsoleIO\obj\Debug\net6.0\BasicConsoleIO.pdb
+C:\Users\Andrew\code\Chapter3_AllProject\BasicConsoleIO\obj\Debug\net6.0\BasicConsoleIO.genruntimeconfig.cache
+C:\Users\Andrew\code\Chapter3_AllProject\BasicConsoleIO\obj\Debug\net6.0\ref\BasicConsoleIO.dll

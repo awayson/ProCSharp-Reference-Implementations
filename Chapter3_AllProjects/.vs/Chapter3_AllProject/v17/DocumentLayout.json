@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andrew\\code\\Chapter3_AllProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{272929EC-6BB7-4A7C-9AD5-B71A5B0A125F}|TypeConversions\\TypeConversions.csproj|c:\\users\\andrew\\code\\chapter3_allproject\\typeconversions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272929EC-6BB7-4A7C-9AD5-B71A5B0A125F}|TypeConversions\\TypeConversions.csproj|solutionrelative:typeconversions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62029C3-52F7-4C73-BB30-629AD5C4120F}|BasicStringManipulation\\BasicStringManipulation.csproj|c:\\users\\andrew\\code\\chapter3_allproject\\basicstringmanipulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D62029C3-52F7-4C73-BB30-629AD5C4120F}|BasicStringManipulation\\BasicStringManipulation.csproj|solutionrelative:basicstringmanipulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDAB4D92-CB56-471B-9641-5CBE9BEB62C1}|BasicDataTypes\\BasicDataTypes.csproj|c:\\users\\andrew\\code\\chapter3_allproject\\basicdatatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDAB4D92-CB56-471B-9641-5CBE9BEB62C1}|BasicDataTypes\\BasicDataTypes.csproj|solutionrelative:basicdatatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrew\\code\\Chapter3_AllProject\\TypeConversions\\Program.cs",
+              "RelativeDocumentMoniker": "TypeConversions\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrew\\code\\Chapter3_AllProject\\TypeConversions\\Program.cs",
+              "RelativeToolTip": "TypeConversions\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T21:32:32.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrew\\code\\Chapter3_AllProject\\BasicStringManipulation\\Program.cs",
+              "RelativeDocumentMoniker": "BasicStringManipulation\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrew\\code\\Chapter3_AllProject\\BasicStringManipulation\\Program.cs",
+              "RelativeToolTip": "BasicStringManipulation\\Program.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAuwLAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T16:20:18.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrew\\code\\Chapter3_AllProject\\BasicDataTypes\\Program.cs",
+              "RelativeDocumentMoniker": "BasicDataTypes\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrew\\code\\Chapter3_AllProject\\BasicDataTypes\\Program.cs",
+              "RelativeToolTip": "BasicDataTypes\\Program.cs",
+              "ViewState": "AQIAAM0AAAAAAAAAAAAAAOMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:44:00.45Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
