@@ -1,0 +1,15 @@
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithMethods\bin\Debug\net6.0\FunWithMethods.exe
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithMethods\bin\Debug\net6.0\FunWithMethods.deps.json
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithMethods\bin\Debug\net6.0\FunWithMethods.runtimeconfig.json
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithMethods\bin\Debug\net6.0\FunWithMethods.dll
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithMethods\bin\Debug\net6.0\FunWithMethods.pdb
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithMethods\obj\Debug\net6.0\FunWithMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithMethods\obj\Debug\net6.0\FunWithMethods.AssemblyInfoInputs.cache
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithMethods\obj\Debug\net6.0\FunWithMethods.AssemblyInfo.cs
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithMethods\obj\Debug\net6.0\FunWithMethods.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithMethods\obj\Debug\net6.0\FunWithMethods.sourcelink.json
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithMethods\obj\Debug\net6.0\FunWithMethods.dll
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithMethods\obj\Debug\net6.0\refint\FunWithMethods.dll
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithMethods\obj\Debug\net6.0\FunWithMethods.pdb
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithMethods\obj\Debug\net6.0\FunWithMethods.genruntimeconfig.cache
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithMethods\obj\Debug\net6.0\ref\FunWithMethods.dll

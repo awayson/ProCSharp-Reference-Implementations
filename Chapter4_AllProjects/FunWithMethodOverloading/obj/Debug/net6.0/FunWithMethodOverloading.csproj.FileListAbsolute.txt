@@ -1,0 +1,15 @@
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithMethodOverloading\obj\Debug\net6.0\FunWithMethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithMethodOverloading\obj\Debug\net6.0\FunWithMethodOverloading.AssemblyInfoInputs.cache
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithMethodOverloading\obj\Debug\net6.0\FunWithMethodOverloading.AssemblyInfo.cs
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithMethodOverloading\obj\Debug\net6.0\FunWithMethodOverloading.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithMethodOverloading\obj\Debug\net6.0\FunWithMethodOverloading.sourcelink.json
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithMethodOverloading\bin\Debug\net6.0\FunWithMethodOverloading.exe
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithMethodOverloading\bin\Debug\net6.0\FunWithMethodOverloading.deps.json
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithMethodOverloading\bin\Debug\net6.0\FunWithMethodOverloading.runtimeconfig.json
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithMethodOverloading\bin\Debug\net6.0\FunWithMethodOverloading.dll
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithMethodOverloading\bin\Debug\net6.0\FunWithMethodOverloading.pdb
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithMethodOverloading\obj\Debug\net6.0\FunWithMethodOverloading.dll
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithMethodOverloading\obj\Debug\net6.0\refint\FunWithMethodOverloading.dll
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithMethodOverloading\obj\Debug\net6.0\FunWithMethodOverloading.pdb
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithMethodOverloading\obj\Debug\net6.0\FunWithMethodOverloading.genruntimeconfig.cache
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithMethodOverloading\obj\Debug\net6.0\ref\FunWithMethodOverloading.dll

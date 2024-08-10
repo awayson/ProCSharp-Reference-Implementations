@@ -1,0 +1,15 @@
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithLocalFunctions\bin\Debug\net6.0\FunWithLocalFunctions.exe
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithLocalFunctions\bin\Debug\net6.0\FunWithLocalFunctions.deps.json
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithLocalFunctions\bin\Debug\net6.0\FunWithLocalFunctions.runtimeconfig.json
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithLocalFunctions\bin\Debug\net6.0\FunWithLocalFunctions.dll
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithLocalFunctions\bin\Debug\net6.0\FunWithLocalFunctions.pdb
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithLocalFunctions\obj\Debug\net6.0\FunWithLocalFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithLocalFunctions\obj\Debug\net6.0\FunWithLocalFunctions.AssemblyInfoInputs.cache
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithLocalFunctions\obj\Debug\net6.0\FunWithLocalFunctions.AssemblyInfo.cs
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithLocalFunctions\obj\Debug\net6.0\FunWithLocalFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithLocalFunctions\obj\Debug\net6.0\FunWithLocalFunctions.sourcelink.json
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithLocalFunctions\obj\Debug\net6.0\FunWithLocalFunctions.dll
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithLocalFunctions\obj\Debug\net6.0\refint\FunWithLocalFunctions.dll
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithLocalFunctions\obj\Debug\net6.0\FunWithLocalFunctions.pdb
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithLocalFunctions\obj\Debug\net6.0\FunWithLocalFunctions.genruntimeconfig.cache
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithLocalFunctions\obj\Debug\net6.0\ref\FunWithLocalFunctions.dll
