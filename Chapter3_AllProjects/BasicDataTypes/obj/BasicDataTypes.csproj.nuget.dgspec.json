@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andrew\\code\\Chapter3_AllProject\\BasicDataTypes\\BasicDataTypes.csproj": {}
+    "C:\\Users\\Andrew\\code\\ProCSharp-Reference-Implementations\\Chapter3_AllProjects\\BasicDataTypes\\BasicDataTypes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andrew\\code\\Chapter3_AllProject\\BasicDataTypes\\BasicDataTypes.csproj": {
+    "C:\\Users\\Andrew\\code\\ProCSharp-Reference-Implementations\\Chapter3_AllProjects\\BasicDataTypes\\BasicDataTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andrew\\code\\Chapter3_AllProject\\BasicDataTypes\\BasicDataTypes.csproj",
+        "projectUniqueName": "C:\\Users\\Andrew\\code\\ProCSharp-Reference-Implementations\\Chapter3_AllProjects\\BasicDataTypes\\BasicDataTypes.csproj",
         "projectName": "BasicDataTypes",
-        "projectPath": "C:\\Users\\Andrew\\code\\Chapter3_AllProject\\BasicDataTypes\\BasicDataTypes.csproj",
+        "projectPath": "C:\\Users\\Andrew\\code\\ProCSharp-Reference-Implementations\\Chapter3_AllProjects\\BasicDataTypes\\BasicDataTypes.csproj",
         "packagesPath": "C:\\Users\\Andrew\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andrew\\code\\Chapter3_AllProject\\BasicDataTypes\\obj\\",
+        "outputPath": "C:\\Users\\Andrew\\code\\ProCSharp-Reference-Implementations\\Chapter3_AllProjects\\BasicDataTypes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andrew\\AppData\\Roaming\\NuGet\\NuGet.Config",

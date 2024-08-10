@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andrew\\code\\Chapter3_AllProject\\BasicStringManipulation\\BasicStringManipulation.csproj": {}
+    "C:\\Users\\Andrew\\code\\ProCSharp-Reference-Implementations\\Chapter3_AllProjects\\BasicStringManipulation\\BasicStringManipulation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andrew\\code\\Chapter3_AllProject\\BasicStringManipulation\\BasicStringManipulation.csproj": {
+    "C:\\Users\\Andrew\\code\\ProCSharp-Reference-Implementations\\Chapter3_AllProjects\\BasicStringManipulation\\BasicStringManipulation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andrew\\code\\Chapter3_AllProject\\BasicStringManipulation\\BasicStringManipulation.csproj",
+        "projectUniqueName": "C:\\Users\\Andrew\\code\\ProCSharp-Reference-Implementations\\Chapter3_AllProjects\\BasicStringManipulation\\BasicStringManipulation.csproj",
         "projectName": "BasicStringManipulation",
-        "projectPath": "C:\\Users\\Andrew\\code\\Chapter3_AllProject\\BasicStringManipulation\\BasicStringManipulation.csproj",
+        "projectPath": "C:\\Users\\Andrew\\code\\ProCSharp-Reference-Implementations\\Chapter3_AllProjects\\BasicStringManipulation\\BasicStringManipulation.csproj",
         "packagesPath": "C:\\Users\\Andrew\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andrew\\code\\Chapter3_AllProject\\BasicStringManipulation\\obj\\",
+        "outputPath": "C:\\Users\\Andrew\\code\\ProCSharp-Reference-Implementations\\Chapter3_AllProjects\\BasicStringManipulation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andrew\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Andrew\\code\\Chapter3_AllProject\\",
+  "WorkspaceRootPath": "C:\\Users\\Andrew\\code\\ProCSharp-Reference-Implementations\\Chapter3_AllProjects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{272929EC-6BB7-4A7C-9AD5-B71A5B0A125F}|TypeConversions\\TypeConversions.csproj|c:\\users\\andrew\\code\\chapter3_allproject\\typeconversions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{272929EC-6BB7-4A7C-9AD5-B71A5B0A125F}|TypeConversions\\TypeConversions.csproj|c:\\users\\andrew\\code\\procsharp-reference-implementations\\chapter3_allprojects\\typeconversions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{272929EC-6BB7-4A7C-9AD5-B71A5B0A125F}|TypeConversions\\TypeConversions.csproj|solutionrelative:typeconversions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D62029C3-52F7-4C73-BB30-629AD5C4120F}|BasicStringManipulation\\BasicStringManipulation.csproj|c:\\users\\andrew\\code\\chapter3_allproject\\basicstringmanipulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D62029C3-52F7-4C73-BB30-629AD5C4120F}|BasicStringManipulation\\BasicStringManipulation.csproj|c:\\users\\andrew\\code\\procsharp-reference-implementations\\chapter3_allprojects\\basicstringmanipulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D62029C3-52F7-4C73-BB30-629AD5C4120F}|BasicStringManipulation\\BasicStringManipulation.csproj|solutionrelative:basicstringmanipulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDAB4D92-CB56-471B-9641-5CBE9BEB62C1}|BasicDataTypes\\BasicDataTypes.csproj|c:\\users\\andrew\\code\\chapter3_allproject\\basicdatatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FDAB4D92-CB56-471B-9641-5CBE9BEB62C1}|BasicDataTypes\\BasicDataTypes.csproj|c:\\users\\andrew\\code\\procsharp-reference-implementations\\chapter3_allprojects\\basicdatatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDAB4D92-CB56-471B-9641-5CBE9BEB62C1}|BasicDataTypes\\BasicDataTypes.csproj|solutionrelative:basicdatatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Andrew\\code\\Chapter3_AllProject\\TypeConversions\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrew\\code\\ProCSharp-Reference-Implementations\\Chapter3_AllProjects\\TypeConversions\\Program.cs",
               "RelativeDocumentMoniker": "TypeConversions\\Program.cs",
-              "ToolTip": "C:\\Users\\Andrew\\code\\Chapter3_AllProject\\TypeConversions\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrew\\code\\ProCSharp-Reference-Implementations\\Chapter3_AllProjects\\TypeConversions\\Program.cs",
               "RelativeToolTip": "TypeConversions\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -41,22 +41,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Andrew\\code\\Chapter3_AllProject\\BasicStringManipulation\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrew\\code\\ProCSharp-Reference-Implementations\\Chapter3_AllProjects\\BasicStringManipulation\\Program.cs",
               "RelativeDocumentMoniker": "BasicStringManipulation\\Program.cs",
-              "ToolTip": "C:\\Users\\Andrew\\code\\Chapter3_AllProject\\BasicStringManipulation\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrew\\code\\ProCSharp-Reference-Implementations\\Chapter3_AllProjects\\BasicStringManipulation\\Program.cs",
               "RelativeToolTip": "BasicStringManipulation\\Program.cs",
               "ViewState": "AQIAAI0AAAAAAAAAAAAuwLAAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T16:20:18.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T16:20:18.472Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Andrew\\code\\Chapter3_AllProject\\BasicDataTypes\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrew\\code\\ProCSharp-Reference-Implementations\\Chapter3_AllProjects\\BasicDataTypes\\Program.cs",
               "RelativeDocumentMoniker": "BasicDataTypes\\Program.cs",
-              "ToolTip": "C:\\Users\\Andrew\\code\\Chapter3_AllProject\\BasicDataTypes\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrew\\code\\ProCSharp-Reference-Implementations\\Chapter3_AllProjects\\BasicDataTypes\\Program.cs",
               "RelativeToolTip": "BasicDataTypes\\Program.cs",
               "ViewState": "AQIAAM0AAAAAAAAAAAAAAOMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

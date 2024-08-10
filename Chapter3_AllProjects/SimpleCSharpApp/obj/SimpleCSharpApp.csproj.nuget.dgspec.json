@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andrew\\code\\Chapter3_AllProject\\SimpleCSharpApp\\SimpleCSharpApp.csproj": {}
+    "C:\\Users\\Andrew\\code\\ProCSharp-Reference-Implementations\\Chapter3_AllProjects\\SimpleCSharpApp\\SimpleCSharpApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andrew\\code\\Chapter3_AllProject\\SimpleCSharpApp\\SimpleCSharpApp.csproj": {
+    "C:\\Users\\Andrew\\code\\ProCSharp-Reference-Implementations\\Chapter3_AllProjects\\SimpleCSharpApp\\SimpleCSharpApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andrew\\code\\Chapter3_AllProject\\SimpleCSharpApp\\SimpleCSharpApp.csproj",
+        "projectUniqueName": "C:\\Users\\Andrew\\code\\ProCSharp-Reference-Implementations\\Chapter3_AllProjects\\SimpleCSharpApp\\SimpleCSharpApp.csproj",
         "projectName": "SimpleCSharpApp",
-        "projectPath": "C:\\Users\\Andrew\\code\\Chapter3_AllProject\\SimpleCSharpApp\\SimpleCSharpApp.csproj",
+        "projectPath": "C:\\Users\\Andrew\\code\\ProCSharp-Reference-Implementations\\Chapter3_AllProjects\\SimpleCSharpApp\\SimpleCSharpApp.csproj",
         "packagesPath": "C:\\Users\\Andrew\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andrew\\code\\Chapter3_AllProject\\SimpleCSharpApp\\obj\\",
+        "outputPath": "C:\\Users\\Andrew\\code\\ProCSharp-Reference-Implementations\\Chapter3_AllProjects\\SimpleCSharpApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andrew\\AppData\\Roaming\\NuGet\\NuGet.Config",

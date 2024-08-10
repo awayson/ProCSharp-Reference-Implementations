@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z3U3F5RU0jk=",
+  "dgSpecHash": "qB8MXX9XasA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Andrew\\code\\Chapter3_AllProject\\BasicConsoleIO\\BasicConsoleIO.csproj",
+  "projectFilePath": "C:\\Users\\Andrew\\code\\ProCSharp-Reference-Implementations\\Chapter3_AllProjects\\BasicConsoleIO\\BasicConsoleIO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andrew\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
     "C:\\Users\\Andrew\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",

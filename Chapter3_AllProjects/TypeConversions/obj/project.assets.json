@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andrew\\code\\Chapter3_AllProject\\TypeConversions\\TypeConversions.csproj",
+      "projectUniqueName": "C:\\Users\\Andrew\\code\\ProCSharp-Reference-Implementations\\Chapter3_AllProjects\\TypeConversions\\TypeConversions.csproj",
       "projectName": "TypeConversions",
-      "projectPath": "C:\\Users\\Andrew\\code\\Chapter3_AllProject\\TypeConversions\\TypeConversions.csproj",
+      "projectPath": "C:\\Users\\Andrew\\code\\ProCSharp-Reference-Implementations\\Chapter3_AllProjects\\TypeConversions\\TypeConversions.csproj",
       "packagesPath": "C:\\Users\\Andrew\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andrew\\code\\Chapter3_AllProject\\TypeConversions\\obj\\",
+      "outputPath": "C:\\Users\\Andrew\\code\\ProCSharp-Reference-Implementations\\Chapter3_AllProjects\\TypeConversions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Andrew\\AppData\\Roaming\\NuGet\\NuGet.Config",
