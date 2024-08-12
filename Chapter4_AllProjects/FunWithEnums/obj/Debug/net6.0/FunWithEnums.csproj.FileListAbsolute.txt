@@ -1,0 +1,15 @@
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithEnums\bin\Debug\net6.0\FunWithEnums.exe
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithEnums\bin\Debug\net6.0\FunWithEnums.deps.json
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithEnums\bin\Debug\net6.0\FunWithEnums.runtimeconfig.json
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithEnums\bin\Debug\net6.0\FunWithEnums.dll
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithEnums\bin\Debug\net6.0\FunWithEnums.pdb
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithEnums\obj\Debug\net6.0\FunWithEnums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithEnums\obj\Debug\net6.0\FunWithEnums.AssemblyInfoInputs.cache
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithEnums\obj\Debug\net6.0\FunWithEnums.AssemblyInfo.cs
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithEnums\obj\Debug\net6.0\FunWithEnums.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithEnums\obj\Debug\net6.0\FunWithEnums.sourcelink.json
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithEnums\obj\Debug\net6.0\FunWithEnums.dll
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithEnums\obj\Debug\net6.0\refint\FunWithEnums.dll
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithEnums\obj\Debug\net6.0\FunWithEnums.pdb
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithEnums\obj\Debug\net6.0\FunWithEnums.genruntimeconfig.cache
+C:\Users\Andrew\code\ProCSharp-Reference-Implementations\Chapter4_AllProjects\FunWithEnums\obj\Debug\net6.0\ref\FunWithEnums.dll
