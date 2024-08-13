@@ -5,6 +5,10 @@ Console.WriteLine("**** Fun with Nullable Value Types ****\n");
 DatabaseReader dr = new DatabaseReader();
 int? i = dr.GetIntFromDatabase();
 
+// Null-Coalescing Operator
+int myData = dr.GetIntFromDatabase() ?? 100;
+Console.WriteLine("Value of myData: {0}", myData);
+
 if (i.HasValue)
 {
     Console.WriteLine("Value of 'i' is: {0}", i.Value);
