@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableValueTypes", "Nulla
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableReferenceTypes", "NullableReferenceTypes\NullableReferenceTypes.csproj", "{86DCF635-8433-4B1E-A29E-F0CA7E616CCB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuples", "Tuples\Tuples.csproj", "{A93CAC75-627B-4D5C-95EA-BD0C0D533072}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{86DCF635-8433-4B1E-A29E-F0CA7E616CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86DCF635-8433-4B1E-A29E-F0CA7E616CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86DCF635-8433-4B1E-A29E-F0CA7E616CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A93CAC75-627B-4D5C-95EA-BD0C0D533072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A93CAC75-627B-4D5C-95EA-BD0C0D533072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A93CAC75-627B-4D5C-95EA-BD0C0D533072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A93CAC75-627B-4D5C-95EA-BD0C0D533072}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
