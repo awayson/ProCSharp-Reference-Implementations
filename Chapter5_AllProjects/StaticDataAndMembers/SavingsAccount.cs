@@ -6,7 +6,22 @@ using System.Threading.Tasks;
 
 namespace StaticDataAndMembers
 {
-    internal class SavingsAccount
+    class SavingsAccount
     {
+        // Static field
+        public static double currInterestRate = 0.04;
+        
+        // Static Properties
+        public static void SetInterestRate(double newRate) => currInterestRate = newRate;
+        public static double GetInterestRate() => currInterestRate;
+
+        // Field
+        public double currBalance;
+        
+        // Constructor
+        public SavingsAccount(double balance)
+        {
+            currBalance = balance;
+        }
     }
 }
