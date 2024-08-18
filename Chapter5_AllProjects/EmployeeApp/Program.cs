@@ -13,8 +13,8 @@ Console.WriteLine("Employee is named: {0}", emp.GetName());
 Employee emp2 = new Employee();
 emp2.SetName("Xena the warrior princess");
 
-
-EmployeeWithProperties emp3 = new EmployeeWithProperties("Mark", 456, 30000);
+DateTime hireDateEmp3 = new DateTime(2020, 4, 8);
+EmployeeWithProperties emp3 = new EmployeeWithProperties("Mark",45, 456, 30000, EmployeePayTypeEnum.Salaried, hireDateEmp3);
 emp3.GiveBonus(1000);
 emp3.DisplayStats();
 
@@ -29,5 +29,12 @@ Employee joe = new Employee();
 
 // With empAge encapsulated using a property, you can simply write
 joe.Age++;
+
+// Using pattern matching with EmployeePayTypeEnum (see switch statement)
+DateTime hireDateEmp4 = new DateTime(2021, 3, 15);
+EmployeeWithProperties emp4 = new EmployeeWithProperties("Jackson",45,123,1000,EmployeePayTypeEnum.Salaried, hireDateEmp4);
+Console.WriteLine(emp4.Pay);
+emp4.GiveBonus(100);
+Console.WriteLine(emp4.Pay);
 
 Console.ReadLine();

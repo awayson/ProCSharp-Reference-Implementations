@@ -13,6 +13,7 @@ namespace EmployeeApp
         private int _empId;
         private float _currPay;
         private int _empAge;
+        private EmployeePayTypeEnum _payType;
 
         // Accessor (get method)
         public string GetName() => _empName;
@@ -52,6 +53,7 @@ namespace EmployeeApp
 
         // Methods
         public void GiveBonus(float amount) => _currPay += amount;
+
         public void DisplayStats()
         {
             Console.WriteLine("Name: {0}", _empName);

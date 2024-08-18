@@ -10,13 +10,14 @@ namespace StaticDataAndMembers
     {
         // Static field
         public static double currInterestRate = 0.04;
-        
-        // Static Properties
-        public static void SetInterestRate(double newRate) => currInterestRate = newRate;
-        public static double GetInterestRate() => currInterestRate;
 
         // Field
         public double currBalance;
+
+        public static double GetInterestRate()
+        {
+            return currInterestRate;
+        }
         
         // Constructor
         public SavingsAccount(double balance)
